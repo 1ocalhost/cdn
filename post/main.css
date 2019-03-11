@@ -169,3 +169,9 @@ a[href]:hover {
   color: rgb(204, 19, 77);
   border-color: rgba(204, 19, 77, 0.6);
 }
+
+@media only screen and (max-width: 800px) {
+  .background-pic {
+    height: 300px !important;
+  }
+}
